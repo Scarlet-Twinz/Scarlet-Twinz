@@ -2,9 +2,9 @@
 
 **Full-Stack Developer | Backend & API Engineering | AI & Automation | Real-Time Systems**
 
-I build practical software systems across the frontend, backend, data, and infrastructure layers. My work spans browser applications, full-stack SaaS platforms, real-time collaboration, workflow automation, AI-powered systems, and database-backed applications.
+I build software across the frontend, backend, data, and infrastructure layers, with a focus on systems that have clear boundaries, useful automation, reliable APIs, and maintainable architecture.
 
-With **4+ years of development experience**, I focus on turning product requirements into maintainable systems with clear architecture, reliable APIs, useful automation, and production-oriented engineering practices.
+With **4+ years of development experience**, my work spans full-stack SaaS, backend services, real-time collaboration, workflow automation, AI systems, and database-driven applications.
 
 ## Engineering Focus
 
@@ -32,7 +32,7 @@ Node.js · Fastify · FastAPI
 PostgreSQL · Prisma · Redis · Docker
 
 **Testing & Delivery**  
-Playwright · REST APIs · Git · GitHub · GitHub Actions
+Playwright · Vitest · Git · GitHub Actions · REST APIs
 
 ## Selected Engineering Work
 
@@ -40,23 +40,28 @@ Playwright · REST APIs · Git · GitHub · GitHub Actions
 Multi-tenant project-management SaaS focused on workspace isolation, authentication, RBAC, background processing, Stripe billing, PostgreSQL, Redis/BullMQ, Playwright, and monorepo architecture.
 
 ### Real-time Kanban
-Collaborative Kanban application combining a Next.js frontend, Fastify API, PostgreSQL/Prisma persistence, Socket.IO real-time communication, and drag-and-drop task management.
+Backend-focused collaborative Kanban foundation combining Fastify, PostgreSQL/Prisma persistence, JWT authentication, Socket.IO realtime communication, ordered boards/columns/cards, and membership relationships.
+
+### LogVault
+Event-driven observability platform combining Fastify, Redis/BullMQ, PostgreSQL, Prisma, Socket.IO, Next.js, asynchronous event processing, service metrics, and anomaly detection.
 
 ### AI Workflow Builder
-Visual workflow editor using React Flow and Zustand with a FastAPI service for workflow graph analysis and DAG validation.
+Visual workflow system exploring graph-based workflow editing, React Flow, Zustand, FastAPI, and DAG validation.
 
 ### Personal Agent
-A modular AI-agent codebase exploring channels, integrations, tools, memory, and automation through a structured TypeScript architecture.
+Modular AI-agent codebase exploring structured TypeScript architecture for channels, integrations, tools, memory, and automation.
 
 ## Engineering Approach
 
-I care about more than getting an interface to work. I pay attention to boundaries between services, data ownership, authentication and authorization, asynchronous processing, failure cases, testing, and maintainability.
+I focus on the engineering behind the interface: service boundaries, data ownership, authentication and authorization, asynchronous processing, failure handling, testing, maintainability, and operational concerns.
 
-My repositories document the actual capabilities of each project rather than presenting unfinished concepts as production systems.
+I document project capabilities according to the implementation actually present in each repository. Unfinished systems are identified as such rather than presented as production software.
 
-## GitHub
+## Repository Portfolio
 
-This profile contains projects from different stages of development, from early frontend experiments to larger full-stack, backend, real-time, and AI systems. The strongest repositories are maintained as engineering case studies with architecture, setup instructions, implementation notes, and project status.
+The profile contains projects from different stages of development, including focused experiments as well as larger backend, full-stack, realtime, AI, and automation systems.
+
+The primary portfolio projects are maintained as engineering case studies with architecture, setup instructions, implementation notes, testing information, and explicit project status.
 
 ## Contact
 
