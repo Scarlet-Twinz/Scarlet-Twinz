@@ -1,56 +1,63 @@
 # Anthony Emmanuella Mmasinachi
 
-**Full-Stack Developer focused on backend engineering, APIs, AI systems, automation, and real-time applications.**
+**Full-Stack Developer | Backend & API Engineering | AI & Automation | Real-Time Systems**
 
-I design and build software that connects modern frontend experiences with reliable backend systems, databases, APIs, and intelligent automation.
+I build practical software systems across the frontend, backend, data, and infrastructure layers. My work spans browser applications, full-stack SaaS platforms, real-time collaboration, workflow automation, AI-powered systems, and database-backed applications.
 
-My development work spans projects ranging from browser-based applications to full-stack platforms involving authentication, real-time communication, databases, background processing, AI workflows, and multi-tenant architecture.
+With **4+ years of development experience**, I focus on turning product requirements into maintainable systems with clear architecture, reliable APIs, useful automation, and production-oriented engineering practices.
 
 ## Engineering Focus
 
-* Full-stack web application development
-* Backend architecture and REST API development
-* AI-powered applications and agent systems
-* Workflow automation
-* Real-time systems and collaborative applications
-* Authentication, authorization, and role-based access
-* Database design and data-driven applications
-* Testing, CI/CD, and production-oriented development
+- Full-stack web application development
+- Backend architecture and REST API design
+- Multi-tenant SaaS and authorization systems
+- AI applications, agents, and workflow automation
+- Real-time and collaborative applications
+- Authentication, RBAC, and secure application design
+- Database modeling and data-driven systems
+- Automated testing, CI/CD, and developer tooling
 
 ## Technology
 
-**Languages**
-
+**Languages**  
 TypeScript · JavaScript · Python · SQL
 
-**Frontend**
-
+**Frontend**  
 React · Next.js · HTML · CSS
 
-**Backend**
+**Backend**  
+Node.js · Fastify · FastAPI
 
-FastAPI · Node.js · Fastify
-
-**Data & Infrastructure**
-
+**Data & Infrastructure**  
 PostgreSQL · Prisma · Redis · Docker
 
-**Testing & Development**
+**Testing & Delivery**  
+Playwright · REST APIs · Git · GitHub · GitHub Actions
 
-Playwright · REST APIs · Git · GitHub · CI/CD
+## Selected Engineering Work
 
-## Building & Learning
+### Nexora
+Multi-tenant project-management SaaS focused on workspace isolation, authentication, RBAC, background processing, Stripe billing, PostgreSQL, Redis/BullMQ, Playwright, and monorepo architecture.
 
-I am continuously expanding my experience in **backend engineering, distributed systems, AI application development, automation, and scalable full-stack architecture**.
+### Real-time Kanban
+Collaborative Kanban application combining a Next.js frontend, Fastify API, PostgreSQL/Prisma persistence, Socket.IO real-time communication, and drag-and-drop task management.
 
-I enjoy taking an idea from a simple concept to a working system — designing the interface, building the API, connecting the database, implementing the application logic, and testing the result.
+### AI Workflow Builder
+Visual workflow editor using React Flow and Zustand with a FastAPI service for workflow graph analysis and DAG validation.
+
+### Personal Agent
+A modular AI-agent codebase exploring channels, integrations, tools, memory, and automation through a structured TypeScript architecture.
+
+## Engineering Approach
+
+I care about more than getting an interface to work. I pay attention to boundaries between services, data ownership, authentication and authorization, asynchronous processing, failure cases, testing, and maintainability.
+
+My repositories document the actual capabilities of each project rather than presenting unfinished concepts as production systems.
 
 ## GitHub
 
-This profile contains projects built across different stages of my development journey, from early frontend and browser applications to more advanced full-stack, backend, AI, and real-time systems.
-
-I keep my repositories documented with their actual capabilities, technology choices, setup instructions, and current project status.
+This profile contains projects from different stages of development, from early frontend experiments to larger full-stack, backend, real-time, and AI systems. The strongest repositories are maintained as engineering case studies with architecture, setup instructions, implementation notes, and project status.
 
 ## Contact
 
-**Email:** [anthonyemmanuella297@gmail.com](mailto:anthonyemmanuella297@gmail.com)
+**Email:** anthonyemmanuella297@gmail.com
