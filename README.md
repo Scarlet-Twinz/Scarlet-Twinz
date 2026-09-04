@@ -2,9 +2,9 @@
 
 **Full-Stack Developer | Backend & API Engineering | AI & Automation | Real-Time Systems**
 
-I build software across the frontend, backend, data, and infrastructure layers, with a focus on systems that have clear boundaries, useful automation, reliable APIs, and maintainable architecture.
+I build software across the frontend, backend, data, and infrastructure layers, with a focus on clear service boundaries, useful automation, reliable APIs, and maintainable architecture.
 
-With **4+ years of development experience**, my work spans full-stack SaaS, backend services, real-time collaboration, workflow automation, AI systems, and database-driven applications.
+With **4+ years of development experience**, my work spans full-stack SaaS, backend services, real-time collaboration, workflow automation, AI-assisted systems, and database-driven applications.
 
 ## Engineering Focus
 
@@ -12,7 +12,7 @@ With **4+ years of development experience**, my work spans full-stack SaaS, back
 - Backend architecture and REST API design
 - Multi-tenant SaaS and authorization systems
 - AI applications, agents, and workflow automation
-- Real-time and collaborative applications
+- Real-time and event-driven applications
 - Authentication, RBAC, and secure application design
 - Database modeling and data-driven systems
 - Automated testing, CI/CD, and developer tooling
@@ -37,19 +37,25 @@ Playwright · Vitest · Git · GitHub Actions · REST APIs
 ## Selected Engineering Work
 
 ### Nexora
-Multi-tenant project-management SaaS focused on workspace isolation, authentication, RBAC, background processing, Stripe billing, PostgreSQL, Redis/BullMQ, Playwright, and monorepo architecture.
+Multi-tenant project-management SaaS focused on workspace isolation, authentication, RBAC, PostgreSQL Row-Level Security, background processing, Stripe billing, Redis/BullMQ, Playwright, CI, and monorepo architecture.
 
-### Real-time Kanban
-Backend-focused collaborative Kanban foundation combining Fastify, PostgreSQL/Prisma persistence, JWT authentication, Socket.IO realtime communication, ordered boards/columns/cards, and membership relationships.
+### VANTA — Operational Intelligence
+Full-stack incident-management platform combining Next.js, Fastify, PostgreSQL, Redis/BullMQ, server-sent events, AI-assisted incident triage, duplicate detection, priority analysis, analytics, and the LYROMI operational assistant powered locally through Ollama.
 
 ### LogVault
 Event-driven observability platform combining Fastify, Redis/BullMQ, PostgreSQL, Prisma, Socket.IO, Next.js, asynchronous event processing, service metrics, and anomaly detection.
 
+### Real-time Kanban
+Backend-focused collaborative Kanban foundation combining Fastify, PostgreSQL/Prisma persistence, JWT authentication, Socket.IO realtime communication, ordered boards/columns/cards, and membership relationships.
+
 ### AI Workflow Builder
 Visual workflow system exploring graph-based workflow editing, React Flow, Zustand, FastAPI, and DAG validation.
 
-### Personal Agent
-Modular AI-agent codebase exploring structured TypeScript architecture for channels, integrations, tools, memory, and automation.
+## How to Evaluate the Projects
+
+The primary portfolio repositories are documented as engineering case studies. Each major repository explains its architecture, technology choices, repository structure, local setup, testing/build commands, and current implementation status.
+
+The projects are **not currently presented as hosted production services**. Where a public deployment is unavailable, the README provides the intended local evaluation path rather than linking to an unavailable or expired demo.
 
 ## Engineering Approach
 
