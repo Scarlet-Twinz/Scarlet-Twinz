@@ -40,14 +40,6 @@ Docker · Docker Compose · Linux · GitHub Actions · CI/CD
 **Systems & Engineering**  
 HTTP/TCP · Networking · Distributed Systems · Event-Driven Architecture · Real-Time Systems · Compiler Design · Virtual Machines · Automated Testing · Observability
 
-## Selected Systems Work
-
-- **ATLAS** — systems-oriented HTTP reverse proxy in Rust with explicit HTTP/1.x framing, upstream routing, connection reuse, health checks, retries, timeouts, metrics, and fault-injection coverage.
-- **FORGE** — distributed build and task execution engine in Rust with dependency-aware scheduling, worker coordination, persistence, caching, journaling, and metrics.
-- **ASTER** — compiler and language engineering project in Rust.
-- **ORBIT** — bare-metal x86_64 operating-system kernel work in Rust.
-- **NEXORA / VOLTIS / VANTA** — backend, multi-tenant, financial-infrastructure, event-driven, and AI-oriented application systems.
-
 ## Engineering Approach
 
 I focus on the engineering behind the interface: clear service boundaries, data ownership, authentication and authorization, asynchronous processing, API contracts, failure handling, testing, maintainability, observability, and operational concerns.
