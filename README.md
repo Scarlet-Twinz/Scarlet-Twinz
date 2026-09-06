@@ -1,21 +1,21 @@
 # Anthony Emmanuella Mmasinachi
 
-**Full-Stack Engineer | Backend & API Engineering | Frontend | AI & Automation | Real-Time & Systems**
+**Full-Stack & Systems Engineer | Backend & API Engineering | Distributed Systems | Networking | AI & Automation**
 
-I build software across the frontend, backend, data, and infrastructure layers, with an emphasis on well-structured applications, reliable APIs, useful integrations, automation, and systems that can be understood end to end.
+I build software across the application, backend, data, and infrastructure layers, with a focus on systems that are reliable, observable, and understandable end to end. My work spans production-style web platforms, distributed execution, networking infrastructure, real-time systems, compiler engineering, and automation.
 
 ## Engineering Focus
 
 - Full-stack web application development
-- Frontend architecture and responsive application interfaces
 - Backend architecture and REST API design
-- API integration, webhooks, and service-to-service communication
-- Multi-tenant SaaS and authorization systems
+- Networking, HTTP/TCP, proxies, and connection management
+- Distributed systems and asynchronous job execution
+- Multi-tenant SaaS, authentication, and authorization
 - AI-assisted applications, LLM integration, and workflow automation
 - Real-time and event-driven systems
-- Financial workflows and asynchronous processing
+- Financial workflows, background processing, and reliability
 - Compiler construction and systems programming
-- Database design, testing, CI/CD, and developer tooling
+- Database design, testing, CI/CD, observability, and developer tooling
 
 ## Technology
 
@@ -38,13 +38,21 @@ PostgreSQL · Redis · Prisma · TypeORM · BullMQ · Socket.IO
 Docker · Docker Compose · Linux · GitHub Actions · CI/CD
 
 **Systems & Engineering**  
-Event-Driven Architecture · Real-Time Systems · Compiler Design · Virtual Machines · Automated Testing
+HTTP/TCP · Networking · Distributed Systems · Event-Driven Architecture · Real-Time Systems · Compiler Design · Virtual Machines · Automated Testing · Observability
+
+## Selected Systems Work
+
+- **ATLAS** — systems-oriented HTTP reverse proxy in Rust with explicit HTTP/1.x framing, upstream routing, connection reuse, health checks, retries, timeouts, metrics, and fault-injection coverage.
+- **FORGE** — distributed build and task execution engine in Rust with dependency-aware scheduling, worker coordination, persistence, caching, journaling, and metrics.
+- **ASTER** — compiler and language engineering project in Rust.
+- **ORBIT** — bare-metal x86_64 operating-system kernel work in Rust.
+- **NEXORA / VOLTIS / VANTA** — backend, multi-tenant, financial-infrastructure, event-driven, and AI-oriented application systems.
 
 ## Engineering Approach
 
-I focus on the engineering behind the interface: clear service boundaries, data ownership, authentication and authorization, asynchronous processing, API contracts, failure handling, testing, maintainability, and operational concerns.
+I focus on the engineering behind the interface: clear service boundaries, data ownership, authentication and authorization, asynchronous processing, API contracts, failure handling, testing, maintainability, observability, and operational concerns.
 
-I document systems according to the implementation actually present in the codebase, with architecture, setup, testing, and implementation details kept close to the work.
+I document systems according to the implementation actually present in the codebase, keeping architecture, setup, testing, and implementation details close to the work.
 
 ## Contact
 
