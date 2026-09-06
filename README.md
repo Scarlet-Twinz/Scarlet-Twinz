@@ -62,11 +62,11 @@ Collaborative Kanban foundation combining Fastify, PostgreSQL/Prisma persistence
 ### AI Workflow Builder
 Visual workflow system exploring graph-based workflow editing, React Flow, Zustand, FastAPI, and DAG validation.
 
-## How to Evaluate the Projects
+## Project Documentation
 
-The primary portfolio repositories are documented as engineering case studies. Each major repository explains its architecture, technology choices, repository structure, local setup, testing/build commands, and current implementation status.
+The primary repositories document their architecture, technology choices, repository structure, local setup, testing/build commands, and current implementation status.
 
-The projects are **not currently presented as hosted production services**. Where a public deployment is unavailable, the README provides the intended local evaluation path rather than linking to an unavailable or expired demo.
+Where a public deployment is unavailable, the repository documentation provides the intended local setup and execution path rather than linking to an unavailable or expired demo.
 
 ## Engineering Approach
 
@@ -74,11 +74,11 @@ I focus on the engineering behind the interface: service boundaries, data owners
 
 I document project capabilities according to the implementation actually present in each repository. Unfinished systems are identified as such rather than presented as production software.
 
-## Repository Portfolio
+## Repositories
 
 The profile contains projects from different stages of development, including focused experiments as well as larger backend, full-stack, realtime, AI, automation, financial, and systems projects.
 
-The primary portfolio projects are maintained as engineering case studies with architecture, setup instructions, implementation notes, testing information, and explicit project status.
+The primary repositories are maintained with architecture notes, setup instructions, implementation details, testing information, and explicit project status.
 
 ## Contact
 
