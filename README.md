@@ -1,49 +1,51 @@
 # Anthony Emmanuella Mmasinachi
 
-**Full-Stack Developer | Backend & API Engineering | AI Integration & Automation | Real-Time Systems | Compiler & Systems Engineering**
+**Full-Stack Engineer | Backend & API Engineering | Frontend | AI & Automation | Real-Time & Systems**
 
-I build software across frontend, backend, data, and infrastructure layers, with an emphasis on reliable APIs, clear service boundaries, automation, and maintainable system design.
+I build software across the frontend, backend, data, and infrastructure layers, with an emphasis on well-structured applications, reliable APIs, useful integrations, automation, and systems that can be understood end to end.
 
 ## Engineering Focus
 
-- Full-stack web applications and SaaS platforms
-- Backend architecture, REST API design, and API integrations
-- Authentication, authorization, RBAC, and multi-tenant systems
-- Database design, transactions, and asynchronous processing
-- AI integration, LLM-powered workflows, and automation
-- Real-time communication and event-driven systems
-- Compiler construction, bytecode execution, and runtime design
-- Testing, CI/CD, observability, and developer tooling
+- Full-stack web application development
+- Frontend architecture and responsive application interfaces
+- Backend architecture and REST API design
+- API integration, webhooks, and service-to-service communication
+- Multi-tenant SaaS and authorization systems
+- AI-assisted applications, LLM integration, and workflow automation
+- Real-time and event-driven systems
+- Financial workflows and asynchronous processing
+- Compiler construction and systems programming
+- Database design, testing, CI/CD, and developer tooling
 
 ## Technology
 
-**Languages & Markup**  
-Rust · TypeScript · JavaScript · Python · Java · C++ · SQL · HTML · CSS
+**Languages**  
+Rust · TypeScript · JavaScript · Python · Java · C++ · SQL
 
 **Frontend**  
-React · Next.js
+React · Next.js · HTML · CSS · React Flow · Zustand
 
 **Backend & APIs**  
-Node.js · Fastify · NestJS · FastAPI · REST APIs · Webhooks · API Integrations
+Node.js · NestJS · Fastify · FastAPI · REST APIs · API Integration · Webhooks · JWT/OAuth
+
+**AI & Automation**  
+LLM Integration · AI Workflows · Agents · Ollama · Workflow Automation
 
 **Data & Messaging**  
 PostgreSQL · Redis · Prisma · TypeORM · BullMQ · Socket.IO
 
-**AI & Automation**  
-Ollama · LLM Integration · AI Workflows · Workflow Automation
-
 **Infrastructure & DevOps**  
 Docker · Docker Compose · Linux · GitHub Actions · CI/CD
 
-**Testing & Tooling**  
-Vitest · Playwright · Rust Integration Tests · Git · Cargo
+**Systems & Engineering**  
+Event-Driven Architecture · Real-Time Systems · Compiler Design · Virtual Machines · Automated Testing
 
-## Technical Interests
+## Engineering Approach
 
-Backend systems, distributed and event-driven architecture, financial infrastructure, real-time applications, AI-assisted systems, developer tooling, and programming language implementation.
+I focus on the engineering behind the interface: clear service boundaries, data ownership, authentication and authorization, asynchronous processing, API contracts, failure handling, testing, maintainability, and operational concerns.
 
-## Approach
+I document systems according to the implementation actually present in the codebase, with architecture, setup, testing, and implementation details kept close to the work.
 
-I prefer systems that are understandable from end to end: explicit boundaries, well-defined data flows, predictable failure handling, automated validation, and documentation that reflects the implementation.
+## Contact
 
 **Email:** anthonyemmanuella297@gmail.com
