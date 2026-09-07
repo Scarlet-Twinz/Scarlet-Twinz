@@ -40,6 +40,34 @@ Docker · Docker Compose · Linux · GitHub Actions · CI/CD
 **Systems & Engineering**  
 HTTP/TCP · Networking · Distributed Systems · Event-Driven Architecture · Real-Time Systems · Compiler Design · Virtual Machines · Automated Testing · Observability
 
+## Selected Projects
+
+- [VOLTIS](https://github.com/Scarlet-Twinz/voltis) — Full-stack engineering project
+- [Incident Intelligence Platform (VANTA)](https://github.com/Scarlet-Twinz/incident-intelligence-platform) — Incident intelligence platform
+- [Real-Time Kanban](https://github.com/Scarlet-Twinz/real-time-kanban) — Real-time collaboration and task management
+- [Nexora](https://github.com/Scarlet-Twinz/nexora) — Full-stack application project
+- [LogVault](https://github.com/Scarlet-Twinz/logvault) — Logging and systems project
+- [AI Workflow Builder](https://github.com/Scarlet-Twinz/AI-WORKFLOW-BUILDER) — AI-powered workflow automation
+- [Personal Agent](https://github.com/Scarlet-Twinz/personal-agent) — Personal AI agent project
+- [SCAFFOLOD_ETH](https://github.com/Scarlet-Twinz/SCAFFOLOD_ETH) — Engineering project
+- [ATLAS](https://github.com/Scarlet-Twinz/ATLAS) — Engineering project
+- [FORGE](https://github.com/Scarlet-Twinz/FORGE) — Engineering project
+- [ORBIT](https://github.com/Scarlet-Twinz/ORBIT) — Engineering project
+- [Aster](https://github.com/Scarlet-Twinz/aster) — Engineering project
+- [My Dad Business](https://github.com/Scarlet-Twinz/my-dad-business) — Business web project
+- [TaskManager Pro](https://github.com/Scarlet-Twinz/TaskManager_pro) — Task management application
+- [Ella Task Manager Pro](https://github.com/Scarlet-Twinz/Ella-task-manager-pro) — Task management application
+- [Ella DevCareer Track](https://github.com/Scarlet-Twinz/ella-devcareer-track) — Developer career tracking project
+- [Computerized Grade Systems](https://github.com/Scarlet-Twinz/computerized-grade-systems) — Grade management system
+- [Computerized-Based Evaluation](https://github.com/Scarlet-Twinz/Computerized-based-evalution) — Evaluation system
+- [Result Management System](https://github.com/Scarlet-Twinz/Result--management--system) — Result management system
+- [PC Thermal Control System](https://github.com/Scarlet-Twinz/PC-Thermal-Control-System) — PC thermal control project
+- [Voters Registration Portal](https://github.com/Scarlet-Twinz/voters-registration-poral) — Voter registration project
+- [Vote Portal](https://github.com/Scarlet-Twinz/vote-portal) — Voting portal
+- [GPA Calculator](https://github.com/Scarlet-Twinz/-gpa_calculator) — GPA calculation project
+- [Student ID Card](https://github.com/Scarlet-Twinz/studient-id--card) — Student ID card project
+- [My First Program](https://github.com/Scarlet-Twinz/my-first-program) — Early programming project
+
 ## Engineering Approach
 
 I focus on the engineering behind the interface: clear service boundaries, data ownership, authentication and authorization, asynchronous processing, API contracts, failure handling, testing, maintainability, observability, and operational concerns.
