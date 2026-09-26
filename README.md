@@ -82,5 +82,5 @@ The repositories below are therefore written as engineering case studies: what t
 
 ## Contact
 
-**Email:** anthonyemmanuella297@gmail.com  
+**Email:** anthony@anthonytech.name.ng  
 **LinkedIn:** [Anthony Emmanuella Mmasinachi](https://www.linkedin.com/in/anthony-emmanuella-mmasinachi-a515543b1)
