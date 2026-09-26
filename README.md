@@ -13,7 +13,7 @@ I care about the boundary between a feature and the system that makes the featur
 | Product & SaaS | AGATA, NEXORA |
 | Event-driven systems | LOGVAULT, VANTA |
 | Financial systems | VOLTIS |
-| Networking & infrastructure | ATLAS |
+| Networking & infrastructure | ATLAS, AEGIS |
 | Distributed execution | FORGE |
 | Compilers & runtimes | ASTER |
 | Operating systems | ORBIT |
@@ -59,20 +59,48 @@ Git · GitHub Actions · CI/CD · Playwright · Vitest · Integration Testing ·
 
 ## Selected Projects
 
-### AGATA
+### 1. AGATA
 **Compliance intelligence for contractors and project teams.** A proprietary product in active development that connects requirements, evidence, project context, expiry, readiness decisions, remediation, and an AI intelligence layer called RUMI.
 
-### NEXORA
+### 2. NEXORA
 **Multi-tenant SaaS workplace.** Full-stack project-management platform with PostgreSQL RLS, transaction-local tenant context, RBAC, Redis/BullMQ workers, Stripe billing, Playwright E2E coverage, Docker, and CI.
 
-### LOGVAULT
-**Real-time event intelligence.** Event ingestion, asynchronous processing, operational metrics, statistical anomaly detection, and realtime dashboard updates through Redis/BullMQ and Socket.IO.
-
-### VOLTIS
+### 3. VOLTIS
 **Payment and ledger infrastructure.** Financial domain modeling around accounts, double-entry ledger state, idempotent payment operations, reconciliation, risk assessment, webhooks, background jobs, and realtime operations.
 
-### ATLAS · FORGE · ASTER · ORBIT
-A systems-engineering track covering an HTTP reverse proxy in Rust, a distributed task execution engine, a compiler and bytecode VM, and an x86_64 `no_std` kernel.
+### 4. LOGVAULT
+**Real-time event intelligence.** Event ingestion, asynchronous processing, operational metrics, statistical anomaly detection, and realtime dashboard updates through Redis/BullMQ and Socket.IO.
+
+### 5. FORGE
+**Distributed build/task execution engine in Rust.** DAG scheduling, coordinator-worker communication, persistent task state, heartbeats, retries, binary protocol framing, bounded concurrency, content-addressed artifacts, execution journaling, metrics, and tests.
+
+### 6. ATLAS
+**Systems-oriented HTTP reverse proxy in Rust.** TCP/HTTP handling, request parsing, response framing, connection reuse, keep-alive, retries, health checks, timeouts, graceful shutdown, metrics, structured logs, fault injection, and benchmarks.
+
+### 7. ASTER
+**Compiler and bytecode virtual machine.** Lexer, parser, AST, semantic analysis, bytecode generation, VM execution, call frames, recursion, disassembly, REPL, diagnostics, and tests.
+
+### 8. ORBIT
+**x86_64 `no_std` operating-system/kernel project.** Bootloader, physical frame allocation, interrupts, page faults, PIC, PIT, keyboard IRQ, scheduling model, storage abstraction, RAM disk, QEMU, and serial output.
+
+### 9. AI Workflow Builder
+**Node-based AI/workflow automation system.** React Flow + Zustand frontend with FastAPI backend and DAG validation for building and validating workflow graphs.
+
+### 10. AEGIS
+**Go HTTP reverse proxy.** Path routing, token-bucket rate limiting, request IDs, structured logs, health endpoints, metrics, graceful shutdown, Docker, and tests.
+
+### 11. Real-time Kanban
+**Collaborative realtime project management application.** Next.js, Fastify, Prisma/PostgreSQL, Socket.IO, JWT authentication, refresh tokens, optimistic updates, batch ordering, and Playwright coverage.
+
+### 12. Incident Intelligence Platform / VANTA
+**AI-assisted incident operations platform.** Incident classification, priority analysis, duplicate detection, analytics, Redis/BullMQ processing, SSE updates, PostgreSQL, Fastify, Next.js, and Ollama integration.
+
+### Supporting Projects
+
+- **Personal Agent** — AI agent integration/full-stack architecture based on a personal-agent template.
+- **SCAFFOLD_ETH** — Ethereum application project built from the Scaffold-ETH ecosystem.
+- **TWINS-KITCHEN-AND-BAKERY-WORLD** — proprietary commercial website/product catalogue for a real business; public development setup is intentionally not documented.
+- **JOBLESSNESS** — public web project with a live frontend.
 
 ## Engineering Approach
 
