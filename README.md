@@ -112,3 +112,8 @@ The repositories below are therefore written as engineering case studies: what t
 
 **Email:** anthony@anthonytech.name.ng  
 **LinkedIn:** [Anthony Emmanuella Mmasinachi](https://www.linkedin.com/in/anthony-emmanuella-mmasinachi-a515543b1)
+## License
+
+MIT License.
+
+See [LICENSE](LICENSE) for the full license text.
