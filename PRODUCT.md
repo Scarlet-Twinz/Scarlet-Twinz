@@ -27,7 +27,7 @@ Visitors may quickly assess engineering strengths, open a live project preview, 
 - The profile README contains project descriptions and a set of publicly reachable GitHub Pages previews.
 - Some public previews are browser-only demonstrations; a live frontend does not imply that its API, database, queue, or AI service is hosted.
 - Full-stack projects may still be in development or blocked on external infrastructure and production configuration.
-- AGATA, Cypheris, and Twins Kitchen are excluded from the deployment work by the user; do not publish them as newly deployed services.
+- Respect the owner's project-specific publication choices; do not present any project as deployed unless its public services have been verified.
 - Use verified repository facts and deployment status; do not invent production claims, customer outcomes, testimonials, or metrics.
 
 ## Brand Commitments
