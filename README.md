@@ -113,6 +113,7 @@ These GitHub Pages sites are public browser-based previews. A live page does not
 | TaskManager Pro | [Open](https://scarlet-twinz.github.io/TaskManager_pro/) |
 | GPA Calculator | [Open](https://scarlet-twinz.github.io/-gpa_calculator/) |
 | ACCESS | [Open](https://scarlet-twinz.github.io/ACCESS/) |
+| AI Workflow Builder | [Open](https://scarlet-twinz.github.io/AI-WORKFLOW-BUILDER/) |
 
 ### Supporting Projects
 
