@@ -95,6 +95,25 @@ Git · GitHub Actions · CI/CD · Playwright · Vitest · Integration Testing ·
 ### 12. Incident Intelligence Platform / VANTA
 **AI-assisted incident operations platform.** Incident classification, priority analysis, duplicate detection, analytics, Redis/BullMQ processing, SSE updates, PostgreSQL, Fastify, Next.js, and Ollama integration.
 
+## Live Project Previews
+
+These GitHub Pages sites are public browser-based previews. A live page does not imply that a separate API, database, or other backend service is deployed.
+
+| Project | Live preview |
+| --- | --- |
+| TRACE//NULL | [Play](https://scarlet-twinz.github.io/TRACE-NULL/) |
+| JOBLESSNESS | [Open](https://scarlet-twinz.github.io/JOBLESSNESS/) |
+| Voter Portal | [Open](https://scarlet-twinz.github.io/vote-portal/) |
+| Voters Registration Portal | [Open](https://scarlet-twinz.github.io/voters-registration-poral/) |
+| PC Thermal Control System | [Open](https://scarlet-twinz.github.io/PC-Thermal-Control-System/) |
+| Result Management System | [Open](https://scarlet-twinz.github.io/Result--management--system/) |
+| Computerized Evaluation | [Open](https://scarlet-twinz.github.io/Computerized-based-evalution/) |
+| DevCareer Tracker | [Open](https://scarlet-twinz.github.io/ella-devcareer-track/) |
+| Ella Task Manager Pro | [Open](https://scarlet-twinz.github.io/Ella-task-manager-pro/) |
+| TaskManager Pro | [Open](https://scarlet-twinz.github.io/TaskManager_pro/) |
+| GPA Calculator | [Open](https://scarlet-twinz.github.io/-gpa_calculator/) |
+| ACCESS | [Open](https://scarlet-twinz.github.io/ACCESS/) |
+
 ### Supporting Projects
 
 - **Personal Agent** — AI agent integration/full-stack architecture based on a personal-agent template.
