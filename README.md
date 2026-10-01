@@ -6,6 +6,8 @@ I build software across the application, backend, data, and infrastructure layer
 
 I care about the boundary between a feature and the system that makes the feature reliable: data ownership, API contracts, authorization, asynchronous work, failure handling, testing, observability, and maintainable architecture.
 
+**Portfolio:** [Explore selected projects and live previews](https://scarlet-twinz.github.io/Scarlet-Twinz/)
+
 ## What I Build
 
 | Area | Representative work |
